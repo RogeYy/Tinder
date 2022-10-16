@@ -1,0 +1,20 @@
+#include <iostream>
+#include <string>
+    using namespace std;
+    int main() {
+
+        string Name = "", Yers = "", Hair_Color = "", Height = "";
+
+        cout << "input your name: ";
+        cin >> Name;
+
+        cout << "Yers: ";
+        cin >> Yers;
+
+        cout << "Height: ";
+        cin >> Height;
+
+        cout << "Hair_Color: ";
+        cin >> Hair_Color;
+
+}
